@@ -1,19 +1,18 @@
-document.getElementById()
-element.addEventListener('click', function(e) {
-console.log();
- })
- document.addEventListener('click', function(e) {  })
- document.addEventListener('click', function(e) {
+var Animal = (function() {
+  function Animal() {
 
-   })
-   document.addEventListener('click', function(e) {
+  }
+  Animal.prototype = {
 
-     })
-     (function() {
-       'use strict';
-       var Person = (function)
-     }());
-     document.addEventListener('', function(e) {
+  };
+  return Animal
+  }());
+       var Module = (function() {
+         function Module() {
 
-       })
-       
+         }
+         Module.prototype = {
+
+         };
+         return Module
+         }());
