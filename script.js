@@ -12,7 +12,7 @@ var Animal = (function() {
 
          }
          Module.prototype = {
-
          };
          return Module
          }());
+    

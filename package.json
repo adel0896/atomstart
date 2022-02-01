@@ -1,0 +1,23 @@
+{
+  "name": "atomstart",
+  "version": "1.0.0",
+  "description": "```javascript function sayHi() {",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adel0896/atomstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adel0896/atomstart/issues"
+  },
+  "homepage": "https://github.com/adel0896/atomstart#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
